@@ -9,7 +9,7 @@ Dependencies
 *This app is available on heroku*
 
 ```
-https://smart-bank.herokuapp.com
+[smart-bank](https://smart-bank.herokuapp.com)
 ```
 
 ### Installing
