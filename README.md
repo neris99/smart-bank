@@ -1,4 +1,4 @@
-# SmartBank
+# Smart Bank
 
 Dependencies
  * Elixir
@@ -6,11 +6,11 @@ Dependencies
  * Docker
  * docker-compose
 
-*This app is available on heroku*
+*This app is available on heroku [smart-bank](https://smart-bank.herokuapp.com)*
 
-```
-[smart-bank](https://smart-bank.herokuapp.com)
-```
+
+
+
 
 ### Installing
 
