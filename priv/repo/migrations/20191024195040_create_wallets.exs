@@ -1,4 +1,4 @@
-defmodule SmartBank.Repo.Migrations.Createwallets do
+defmodule SmartBank.Repo.Migrations.CreateWallets do
   use Ecto.Migration
 
   def change do
